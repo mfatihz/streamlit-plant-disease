@@ -1,0 +1,5 @@
+python
+streamlit
+Pillow
+torch
+torchvision
